@@ -1,0 +1,10 @@
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\bin\Debug\TypeHelper.mdf
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\bin\Debug\TypeHelper_log.ldf
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\bin\Debug\TypeHelper.exe.config
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\bin\Debug\TypeHelper.exe
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\bin\Debug\TypeHelper.pdb
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\obj\x86\Debug\TypeHelper.TypeHelper.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\obj\x86\Debug\TypeHelper.Properties.Resources.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\obj\x86\Debug\TypeHelper.csproj.GenerateResource.Cache
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\obj\x86\Debug\TypeHelper.exe
+C:\Users\MasterMind\documents\visual studio 2010\Projects\TypeHelper\TypeHelper\obj\x86\Debug\TypeHelper.pdb
